@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-morpion/static/css/main.cf2216ff.css",
+    "main.js": "/react-morpion/static/js/main.56362518.js",
+    "static/js/787.f6f43131.chunk.js": "/react-morpion/static/js/787.f6f43131.chunk.js",
+    "index.html": "/react-morpion/index.html",
+    "main.cf2216ff.css.map": "/react-morpion/static/css/main.cf2216ff.css.map",
+    "main.56362518.js.map": "/react-morpion/static/js/main.56362518.js.map",
+    "787.f6f43131.chunk.js.map": "/react-morpion/static/js/787.f6f43131.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf2216ff.css",
+    "static/js/main.56362518.js"
+  ]
+}
