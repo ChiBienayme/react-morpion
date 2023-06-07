@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  
+}
+#root {
   background: linear-gradient(-45deg, #190287 0%, #f790f0 100%);
 }
 
