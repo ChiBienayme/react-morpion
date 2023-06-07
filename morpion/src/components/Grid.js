@@ -1,7 +1,7 @@
 // ---------------------------------- IMPORTS -----------------------------------
 import React from "react";
 import Button from "./Button";
-import { Icon } from '@iconify/react'; // Cats icons (Copyright Concats)
+
 
 
 class Grid extends React.Component {
@@ -315,16 +315,6 @@ class Grid extends React.Component {
               </p>
         </div>
 
-        <div className="row div-concats">
-          <p className="align-center concats"> &copy; Made by Les Concats 
-          <br></br>
-           <Icon icon="emojione:cat-face"  inline={true} className="cat"/> 
-          <Icon icon="emojione:cat-face"  inline={true} className="cat"/>
-          <Icon icon="emojione:cat-face"  inline={true} className="cat"/>
-          <Icon icon="emojione:cat-face"  inline={true} className="cat"/>
-           </p>
-          
-        </div>
       </section>
     );
   }

@@ -3,7 +3,8 @@ import React from "react";
 import Grid from "./components/Grid";
 // CSS
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+
 
 class App extends React.Component {
   constructor() {
